@@ -1,0 +1,19 @@
+{
+  "name": "express-test-cicd",
+  "version": "1.0.0",
+  "description": "Test app for cicd pipeline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neillamont/express-test-cicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neillamont/express-test-cicd/issues"
+  },
+  "homepage": "https://github.com/neillamont/express-test-cicd#readme"
+}
